@@ -18,7 +18,6 @@
 
 - 🔗 LinkedIn: **https://www.linkedin.com/in/omar-omran-578600239/**
 
-- 💻 GitHub: **https://github.com/omaromran74**
 
 ---
 
@@ -28,10 +27,6 @@
   <a href="https://www.linkedin.com/in/omar-omran-578600239/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://github.com/omaromran74" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-</p>
 
 ### Languages and Tools:
 
