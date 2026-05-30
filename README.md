@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Omar Omran</h1>
 
-<!--
-**omaromran74/omaromran74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Business Intelligence & Data Analytics Graduate based in Sweden</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I hold a Master's degree in **Business Intelligence** and a Bachelor's degree in **Management Information Systems**.
+
+- 📊 I work with **data analytics, dashboards, SQL, Python, Power BI, and Tableau**.
+
+- 🔍 My projects focus on **anomaly detection, sentiment analysis, KPI dashboards, and e-commerce data analysis**.
+
+- ☁️ I’m interested in **cloud analytics, data visualization, marketing analytics, and customer insights**.
+
+- 🌱 I’m currently improving my skills in **BI tools, ETL pipelines, and Swedish**.
+
+- 📫 How to reach me: **omr2000@gmail.com**
+
+- 🔗 LinkedIn: **https://www.linkedin.com/in/omar-omran-578600239/**
+
+- 💻 GitHub: **https://github.com/omaromran74**
+
+---
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-omran-578600239/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/omaromran74" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,github,git,vscode,azure,gcp" />
+</p>
+
+**Also familiar with:** Power BI, Tableau, Excel, Qlik Sense, Looker, BigQuery, Snowflake, Databricks, Jupyter Notebooks.
