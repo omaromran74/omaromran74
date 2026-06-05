@@ -31,7 +31,7 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,github,git,vscode,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,vscode,azure,gcp" />
 </p>
 
 **Also familiar with:** Power BI, Tableau, Excel, Qlik Sense, Looker, BigQuery, Snowflake, Databricks, Jupyter Notebooks.
