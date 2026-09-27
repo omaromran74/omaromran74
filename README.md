@@ -16,7 +16,6 @@
 
 - 📫 How to reach me: **omr2000@gmail.com**
 
-- 🔗 LinkedIn: **https://www.linkedin.com/in/omar-omran-578600239/**
 
 
 ---
