@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently improving my skills in **BI tools, ETL pipelines, and Swedish**.
 
-- 📫 How to reach me: **omr2000@gmail.com**
+
 
 
 
